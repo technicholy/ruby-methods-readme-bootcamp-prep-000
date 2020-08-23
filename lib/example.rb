@@ -13,3 +13,4 @@ def printPhrase
   puts phrase
   puts phrase
 end
+printPhrase
